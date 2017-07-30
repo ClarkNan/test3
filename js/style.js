@@ -8,5 +8,4 @@ document.getElementById('countId').onclick = function (){
 	var hightPrice = parseInt(document.getElementById('hightId').value)*hight;
 	var sosoPrice = parseInt(document.getElementById('sosoId').value)*soso;
 	document.getElementById('totalId').textContent = lightPrice + hightPrice + sosoPrice
-	document.getElementById('totalId').textContent = lightPrice 
 }
