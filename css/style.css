@@ -29,14 +29,14 @@ body {
 
 }
 /*font*/
-h1,p,h5 {
+h1,p,h3 {
 	color: white;
 	text-shadow: 0px 0px 5px skyblue, 1.5px 1.5px 5px skyblue, -1.5px -1.5px 5px skyblue, 1.5px -1.5px 5px skyblue, -2px 2px 5px skyblue;
 
 }
 
 
-h1 {
+h1,h3 {
 	text-align: center;
 }
 /*按件及輸入框*/
